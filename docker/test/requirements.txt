@@ -1,0 +1,7 @@
+numpy==1.19.2
+numba==0.51.2
+matplotlib==3.3.2
+diagrams==0.17.0
+
+
+
