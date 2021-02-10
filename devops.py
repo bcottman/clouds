@@ -68,7 +68,7 @@ nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 serial_script_cmd = 'git config user.name "bcottman"'
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 
-serial_script_cmd = ' git push -u origin ' + pid
+serial_script_cmd = 'git push -u origin ' + pid
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 
 #########
