@@ -1,0 +1,17 @@
+// MLOps Flow as a DAG
+digraph {
+	D [label="Feature Store"]
+	L [label="ML Model Lab"]
+	S [label="ML Model Stage"]
+	P [label="ML Model Production"]
+	M [label="ML Model Monitoring"]
+	D -> L
+	D -> S
+	D -> P
+	L -> M
+	S -> M
+	P -> M
+	L -> S
+	S -> P
+	P -> D
+}

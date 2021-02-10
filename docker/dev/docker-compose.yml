@@ -2,6 +2,7 @@ version: '3'
 services:
   dev:
     build: '.'
+    container_name: clouddev
     security_opt:
       - seccomp:unconfined
     ports:
