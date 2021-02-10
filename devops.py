@@ -50,7 +50,7 @@ nstep,rc = devops_step(serial_script_cmd, nstep, return_code )
 ######
 import uuid
 
-pid = 'branch-' + str(uuid.uuid4())  
+pid = 'branch-' + str(uuid.uuid4())
 
 serial_script_cmd = 'git checkout -b ' + pid
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
@@ -69,7 +69,7 @@ nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 serial_script_cmd = 'git config --list'
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 
-serial_script_cmd = 'git push -u main ' + pid
+serial_script_cmd = 'git push -u origin ' + pid
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 
 #########
