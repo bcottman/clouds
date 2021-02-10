@@ -65,7 +65,9 @@ nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 serial_script_cmd = 'git config user.email "dr.bruce.cottman@gmail.com"'
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 
-#serial_script_cmd = 'git config user.name "bcottman"'
+serial_script_cmd = 'git config user.name "bcottman"'
+nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
+
 serial_script_cmd = 'git config --list'
 nstep, rc = devops_step(serial_script_cmd, nstep, return_code)
 
