@@ -1,24 +1,29 @@
 #!/usr/bin/env python
 
-"""Tests for `src` package."""
 
-import pytest
-
-
-from src import src
+# import pytest
 
 
-@pytest.fixture
-def response():
-    """Sample pytest fixture.
-
-    See more at: http://doc.pytest.org/en/latest/fixture.html
-    """
-    # import requests
-    # return requests.get('https://github.com/audreyr/cookiecutter-pypackage')
+# def test_fail():
+#     # test  fail"
+#     assert False
 
 
-def test_content(response):
+def test_1():
     """Sample pytest test function with the pytest fixture as an argument."""
-    # from bs4 import BeautifulSoup
-    # assert 'GitHub' in BeautifulSoup(response.content).title.string
+    assert True
+
+
+def test_2():
+    """Sample pytest test function with the pytest fixture as an argument."""
+    assert True
+
+
+# def test_2(response):
+#     """Sample pytest test function with the pytest fixture as an argument."""
+#     assert response(0)
+#
+#
+# def test_3(response):
+#     """Sample pytest test function with the pytest fixture as an argument."""
+#     assert response(1)

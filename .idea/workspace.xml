@@ -1,11 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd963c2b-a040-4fda-8d30-f9aa8f0d9840" name="Default Changelist" comment="" />
+    <list default="true" id="dd963c2b-a040-4fda-8d30-f9aa8f0d9840" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2102380a83ba652ce8c249006a1f8b233aaf9dd4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23ee599d7466135e54ca3cc8650c10ae908cb741" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29bc3448f234f3274d29646e86be29f2f3117e35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6da29d25fc991b2db3e1a3a229a2432fd6e870de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/854e5ad64f336fd99000f159170f77e314db2dab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c90e06bbca9df1d5ea93510cd42fc7a2c99e641" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c27c6f0288fa04b9d17543ae500acc320606f03a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e306f0b9e784aabf8419fd34951f8c8439599fa0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e65149c09cfc627df355d6363f74ac6885bd12b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/coverage_html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/favicon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.isonscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/tests___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/tests_test_src_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/.ipynb_checkpoints/AWS-class-architectures-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/.ipynb_checkpoints/all-3-architectures-map-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/AWS-class-architectures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/all-3-architectures-map.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/azure_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/big_data_storage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/compute_engine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/dns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/gcp_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/gcp_machine_learning_and_deep_learning_services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/general_machine_learning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/identity_and_access_management.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/identity_and_access_managemente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/kubernetes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/loadbalancers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/mlops diagram example.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/nat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/natural_language_translation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/oltp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/recommendation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/recommendations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/recommendatios.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/serverless_compute_engine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/sql_rdms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/storage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/virtual_private.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/virtual_private_network.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week-3-8_exercise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_1_-_exercise_2_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_1_-_exercise_3_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_2_-_exercise_4_iam_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_2_-_exercise_5_cloud_9_ide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_2_-_exercise_6_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_3_-_exercise_7_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_3_-_exercise_8_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_4_-_exercise_8_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_4_-_exercise_9_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_5_-_excercise_11_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_5_-_exercise_10_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_5_-_exercise_19_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AWS/week_6_-_excercise_12_-_archecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aws/architectures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aws/test-output/round-table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aws/test-output/round-table.jpg.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/ML/.ipynb_checkpoints/jsontodict-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/ML/jsontodict.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/dev/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker/dev/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/dev/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/dev/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/test/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker/test/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/test/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docker/test/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AWS/.ipynb_checkpoints/architectures-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/aws/.ipynb_checkpoints/architectures-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AWS/architectures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/AWS/.ipynb_checkpoints/mlops diagram example-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AWS/test-output/round-table.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AWS/test-output/round-table.jpg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_src.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_src.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,7 +114,110 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.google.cloudcode.ide_session_index" value="20210209_0018" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.devops">
+    <configuration name="devops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clouds" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cdci.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/cdci.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_src.test_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="clouds" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_src.test_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_src.test_3" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="clouds" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_src.test_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_src.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="clouds" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_src.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.devops" />
+        <item itemvalue="Python tests.pytest in test_src.py" />
+        <item itemvalue="Python tests.pytest for test_src.test_2" />
+        <item itemvalue="Python tests.pytest for test_src.test_3" />
+        <item itemvalue="Shell Script.cdci.sh" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,10 +230,82 @@
       <option name="presentableId" value="Default" />
       <updated>1602249823959</updated>
       <workItem from="1602249825268" duration="8342000" />
+      <workItem from="1602426536467" duration="1444000" />
+      <workItem from="1603631567182" duration="56000" />
+      <workItem from="1612480488881" duration="28324000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="321" key="#cdci.sh" timestamp="1612484362400">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="605" y="321" key="#cdci.sh/0.23.1920.995@0.23.1920.995" timestamp="1612484362400" />
+    <state width="1377" height="249" key="GridCell.Tab.0.bottom" timestamp="1612915223061">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="249" key="GridCell.Tab.0.bottom/0.23.1920.995@0.23.1920.995" timestamp="1612915223061" />
+    <state width="1377" height="249" key="GridCell.Tab.0.center" timestamp="1612915223060">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="249" key="GridCell.Tab.0.center/0.23.1920.995@0.23.1920.995" timestamp="1612915223060" />
+    <state width="1377" height="249" key="GridCell.Tab.0.left" timestamp="1612915223059">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="249" key="GridCell.Tab.0.left/0.23.1920.995@0.23.1920.995" timestamp="1612915223059" />
+    <state width="1377" height="249" key="GridCell.Tab.0.right" timestamp="1612915223060">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="249" key="GridCell.Tab.0.right/0.23.1920.995@0.23.1920.995" timestamp="1612915223060" />
+    <state width="1377" height="311" key="GridCell.Tab.1.bottom" timestamp="1612567083860">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="311" key="GridCell.Tab.1.bottom/0.23.1920.995@0.23.1920.995" timestamp="1612567083860" />
+    <state width="1377" height="311" key="GridCell.Tab.1.center" timestamp="1612567083859">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="311" key="GridCell.Tab.1.center/0.23.1920.995@0.23.1920.995" timestamp="1612567083859" />
+    <state width="1377" height="311" key="GridCell.Tab.1.left" timestamp="1612567083858">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="311" key="GridCell.Tab.1.left/0.23.1920.995@0.23.1920.995" timestamp="1612567083858" />
+    <state width="1377" height="311" key="GridCell.Tab.1.right" timestamp="1612567083859">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1377" height="311" key="GridCell.Tab.1.right/0.23.1920.995@0.23.1920.995" timestamp="1612567083859" />
+    <state width="233" height="539" key="HiddenNamespacesPopup" timestamp="1612566677878">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="233" height="539" key="HiddenNamespacesPopup/0.23.1920.995@0.23.1920.995" timestamp="1612566677878" />
+    <state x="668" y="207" key="SettingsEditor" timestamp="1612483046963">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="668" y="207" key="SettingsEditor/0.23.1920.995@0.23.1920.995" timestamp="1612483046963" />
+    <state x="601" y="242" width="596" height="580" key="find.popup" timestamp="1612913496696">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state x="601" y="242" width="596" height="580" key="find.popup/0.23.1920.995@0.23.1920.995" timestamp="1612913496696" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/clouds$src.coverage" NAME="src Coverage Results" MODIFIED="1612481100124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/clouds$devops.coverage" NAME="devops Coverage Results" MODIFIED="1612915437510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/clouds$pytest_in_test_src_py.coverage" NAME="pytest in test_src.py Coverage Results" MODIFIED="1612826628738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/clouds$pytest_for_test_src_test_3.coverage" NAME="pytest for test_src.test_3 Coverage Results" MODIFIED="1612542628873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/clouds$pytest_in_tests.coverage" NAME="pytest in tests Coverage Results" MODIFIED="1612481853137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/clouds$pytest_for_test_src_test_2.coverage" NAME="pytest for test_src.test_2 Coverage Results" MODIFIED="1612542976806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
 </project>
